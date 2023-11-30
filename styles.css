@@ -741,6 +741,12 @@ a {
     }
 }
 
+@media only screen and (max-width: 340px){
+    .text-Container{
+        width: 100%;
+    }
+}
+
 /* CSS for Achievement section  */
 .achievement-container {
     position: relative;
@@ -1515,6 +1521,17 @@ a {
         align-self: stretch;
     }
 
+}
+@media only screen and (max-width: 320px){
+    .new-icon{
+        padding-left: 0px;
+    }
+    .header{
+        padding: 0.5rem 1.5rem;
+    }
+    .Question-Heading{
+        padding: 0.5rem 1.5rem;
+    }
 }
 
 /* Css For SignUp section  */
