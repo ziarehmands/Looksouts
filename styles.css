@@ -434,7 +434,7 @@ a {
     }
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 767px) {
 
     .Hero-Content-Heading-Container-Desktop {
         display: none;
